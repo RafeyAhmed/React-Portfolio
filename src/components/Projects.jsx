@@ -21,7 +21,7 @@ export default function Projects() {
         {
             name: 'React Portfolio',
             description: 'Portfolio built with React',
-            image: 'https://raw.githubusercontent.com/RafeyAhmed/React-Portfolio/master/portfolio-react-app/src/assets/facey.png',
+            image: 'https://raw.githubusercontent.com/RafeyAhmed/React-Portfolio/master/src/assets/facey.png',
             tech: ['React.js', 'Bootstrap'],
             link: 'https://github.com/RafeyAhmed/React-Portfolio',
         },
