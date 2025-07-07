@@ -1,0 +1,14 @@
+html{
+  scroll-behavior: smooth;
+}
+ body {
+  font-family: 'DM Sans', sans-serif;
+}
+.navbar, .hero-section, .section-about-me {
+  font-family: 'DM Sans', sans-serif;
+}
+::selection{
+  background-color: rgb(100, 100, 100);
+  color: white;
+}
+

@@ -1,0 +1,10 @@
+.section-about-me{
+    background-image: url(../assets/aboutbg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: rgb(230, 230, 230);
+}
+.section-about-me p{
+    backdrop-filter: blur(2px);
+}

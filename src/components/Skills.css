@@ -1,0 +1,13 @@
+.skills-section {
+  background-color: #f8f9fa;
+}
+
+.skills-section p {
+  font-weight: 500;
+}
+
+.icon-skill:hover{
+    transform: scale(1.1);
+    transition: all 0.5s ease-in-out;
+    cursor: pointer;
+}

@@ -1,0 +1,15 @@
+.footer {
+  background-color: #C5CFD6;
+  color: black;
+  border-top: 1px solid #ccc;
+}
+
+.footer-icon {
+  color: black;
+  margin: 0 15px;
+  transition: color 0.3s ease;
+}
+
+.footer-icon:hover {
+  color: #555;
+}

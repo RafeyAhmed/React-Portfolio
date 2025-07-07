@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: #C5CFD6;
+    color: black;
+    transition: transform 0.3s ease-in-out;
+    z-index: 1000;
+}
+
+.navbar-brand {
+    transform: translateY(5px);
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.nav-link:hover {
+    text-decoration: underline lightslategray;
+}
